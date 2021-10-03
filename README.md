@@ -1,5 +1,5 @@
 # termux-ngrok
-O [ngrok](https://ngrok.com/) é um serviço que disponibiliza servidores por trás de redes NATs e Firewalls que realizam conexão publicas em túneis [documentação](https://ngrok.com/docs).
+ngrok - это сервис, который предоставляет серверы за сетями NAT и сети, которые выполняют общедоступные подключения к туннелям документации.
 
 ### Instalando ngrok no Termux
 ```
